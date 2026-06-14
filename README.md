@@ -5,3 +5,4 @@
 - JavaScript
 - Python
 - Algorithms
+- POO
