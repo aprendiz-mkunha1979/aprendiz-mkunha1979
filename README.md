@@ -7,3 +7,6 @@
 - Algorithms
 - POO
 - SQL with PostgreSQL
+
+## Dream :octocat: :construction:
+- fullstack developer
