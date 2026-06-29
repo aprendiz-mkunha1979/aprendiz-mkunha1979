@@ -6,7 +6,7 @@
 - HTML5 e CSS3
 - JavaScript
 - Python
-- C,C++,C#
+- C,C++,C# and Java
 - SQL with PostgreSQL
   
 
